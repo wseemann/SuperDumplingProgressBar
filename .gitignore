@@ -1,0 +1,18 @@
+# Gradle / build
+/out/
+/build/
+/.gradle/
+build/
+
+# IntelliJ
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Plugin sandbox
+/.tmp/
